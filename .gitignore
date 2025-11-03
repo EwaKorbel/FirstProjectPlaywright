@@ -1,0 +1,27 @@
+# Node dependencies
+node_modules/
+
+# Playwright test reports and traces
+playwright-report/
+test-results/
+trace.zip
+
+# Build output
+dist/
+
+# Environment variables
+.env
+
+# IDE & editor files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
